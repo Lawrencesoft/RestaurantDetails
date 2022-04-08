@@ -46,6 +46,7 @@ These will install any needed dependencies, build the project, and run the proje
 1) **Buid :** Open the Visual Studio(2019) IDE **Build**  Menu --> **Build solution**
 2) **Run :** Open the [Restaurant.sln](https://github.com/Lawrencesoft/RestaurantDetails/blob/main/Restaurant.sln) in Visual Studio(2019) IDE and make the Restaurant as startup project and execute it or publish the API project in IIS and execute from there(Attached the screenshot below). 
 3) Create a DB in SQL Server </br></br>
+4) Change the DB connection strig in [this config file](https://github.com/Lawrencesoft/RestaurantDetails/blob/main/Restaurant/appsettings.json)
 
 **Publish :** Open the Visual Studio(2022) IDE 
 **Build**  Menu --> **Publish Restaurant** <br />
@@ -55,22 +56,15 @@ These will install any needed dependencies, build the project, and run the proje
     Once it is executed, Test explorer will show the test results(Executed screenshot added below) 
 
 # ScreenShots
-****Login Page**** <br>
-Username: ****admin****
-<br>Password: ****password****
-![image](https://user-images.githubusercontent.com/63959021/154868885-c07fddd4-e8ae-4e10-9bef-11d4b51c36ef.png)
-****Phase 1:****![image](https://user-images.githubusercontent.com/63959021/154869192-62d83811-19f7-440c-b7ad-07561b8b52b7.png)
-****Phase 2:**** ![image](https://user-images.githubusercontent.com/63959021/154869263-cd91213c-26d4-4611-b4a2-6ee9b5b50cc6.png)
-****Phase 3:**** ![image](https://user-images.githubusercontent.com/63959021/154869290-c3132f17-538b-4df5-808b-51360e9796f6.png)
-
-****Swagger API****<br>
-![image](https://user-images.githubusercontent.com/63959021/154868738-9c84f642-9cae-48cb-9147-5efb62c3ce8e.png)
-![image](https://user-images.githubusercontent.com/63959021/154869660-5d602d54-0bec-45f2-876d-5ef3e58d2f7e.png)
+****Welcome Page**** <br>
+![image](https://user-images.githubusercontent.com/63959021/162424721-7308e58e-394a-42ac-af70-efbb028b4766.png)
+****Available Restaurant Page**** <br>
+![image](https://user-images.githubusercontent.com/63959021/162424858-b9cee669-cf75-4dcf-a8be-919cab898da6.png)
+![image](https://user-images.githubusercontent.com/63959021/162424944-9787436c-56db-46c6-a76a-b826663dc5fc.png)
+![image](https://user-images.githubusercontent.com/63959021/162425037-5a1dc0a2-3752-439b-8055-4e4004774a4b.png)
+****API Result Page**** <br>
+![image](https://user-images.githubusercontent.com/63959021/162425116-ee859cfb-a5d2-42db-94c1-d80d10438ea3.png)
 
 
-****Unit Test case Results****<br>
-![image](https://user-images.githubusercontent.com/63959021/154869367-a0cfdbff-0043-4ad5-b4a4-4778247c1ea2.png)<br>
-****UI Unit test cases****<br>
-![image](https://user-images.githubusercontent.com/63959021/154869424-abf7f0ae-2e6c-42dd-b38f-3afcbeff7f77.png)
 
 
