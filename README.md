@@ -45,7 +45,7 @@ These will install any needed dependencies, build the project, and run the proje
 **Other Options** - 
 1) **Buid :** Open the Visual Studio(2019) IDE **Build**  Menu --> **Build solution**
 2) **Run :** Open the [Restaurant.sln](https://github.com/Lawrencesoft/RestaurantDetails/blob/main/Restaurant.sln) in Visual Studio(2019) IDE and make the Restaurant as startup project and execute it or publish the API project in IIS and execute from there(Attached the screenshot below). 
-3) Create a DB in SQL Server </br></br>
+3) Create a DB in SQL Server </br>
 4) Change the DB connection strig in [this config file](https://github.com/Lawrencesoft/RestaurantDetails/blob/main/Restaurant/appsettings.json)
 
 **Publish :** Open the Visual Studio(2019) IDE 
