@@ -48,12 +48,12 @@ These will install any needed dependencies, build the project, and run the proje
 3) Create a DB in SQL Server </br></br>
 4) Change the DB connection strig in [this config file](https://github.com/Lawrencesoft/RestaurantDetails/blob/main/Restaurant/appsettings.json)
 
-**Publish :** Open the Visual Studio(2022) IDE 
+**Publish :** Open the Visual Studio(2019) IDE 
 **Build**  Menu --> **Publish Restaurant** <br />
 &nbsp;&nbsp;&nbsp;&nbsp;Select the path to publish it. Once it is publish to the path, This path can be link from IIS and run from there <br />
 
-**Test Project Execution:** Open the Visual Studio(2022) IDE **Test**  Menu --> Run All Tests<br />
-    Once it is executed, Test explorer will show the test results(Executed screenshot added below) 
+**Test Project Execution:** Open the Visual Studio(2019) IDE **Test**  Menu --> Run All Tests<br />
+    Once it is executed, Test explorer will show the test results
 
 # ScreenShots
 ****Welcome Page**** <br>
